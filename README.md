@@ -1,2 +1,2 @@
-# JavaNotes
-My Notes on Java 
+# Initial page
+
